@@ -15,11 +15,11 @@
 
 
 2. Log into the mysql prompt
-*  `mysql -u posapi -pposapi`
+*  `mysql -u holiday-admin -pholiday`
 
 
 3. Select the `pos` database
-*   `use pos;`
+*   `use holiday_computer_repair;`
 
 4.  Run liquibase to configure database
 *  activate maven profile: `Liquibase`
